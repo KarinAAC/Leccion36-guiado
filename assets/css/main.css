@@ -2,3 +2,14 @@
   width: 100%;
   height: 90vh;
 }
+#buscador{
+  padding: 20px;
+  background: #f7b617 ;
+}
+#buscador input{
+  width: 60%;
+  display: inline-block;
+}
+#buscador span{
+  padding: 10px;
+}
