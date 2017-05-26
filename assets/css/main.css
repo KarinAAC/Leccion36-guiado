@@ -13,3 +13,14 @@
 #buscador span{
   padding: 10px;
 }
+#tarifa{
+  background: black;
+  width: 70px;
+  height: 70px;
+  color: white;
+  position: absolute;
+  padding: 20px;
+  margin-top: -71px;
+  margin-left: -13px;
+}
+}
